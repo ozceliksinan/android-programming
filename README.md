@@ -21,7 +21,3 @@ This project is tailored to beginners in Android app development. It offers a co
 3. Review the Android code to understand the exercise's goals.
 4. Create your solution and observe the behavior.
 5. Compare your solution with the provided sample solution to improve your skills.
-
-Contact e-mail for any question: info@sinanozcelik.com
-
-For more: sinanozcelik.com
